@@ -14,7 +14,10 @@
 
   <!-- Navbar -->
   <%@ include file="navbar.jsp" %>
-
+  
+  <!-- Header -->
+  <%@ include file="header.jsp" %>
+  
   <!-- Hero Section -->
   <div class="container py-5 flex-grow-1">
     <div class="row align-items-center">

@@ -13,6 +13,9 @@
 <!-- Navbar -->
 <%@ include file="navbar.jsp" %>
 
+ <!-- Header -->
+ <%@ include file="header.jsp" %>
+
 <!-- About Section -->
 <section class="py-5 bg-light flex-grow-1">
   <div class="container">

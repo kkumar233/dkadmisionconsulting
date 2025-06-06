@@ -16,7 +16,8 @@
 <!-- Navbar -->
 <%@ include file="navbar.jsp" %>
 
-
+  <!-- Header -->
+  <%@ include file="header.jsp" %>
 
 <!-- Contact Section -->
 <section class="py-5 flex-grow-1">
