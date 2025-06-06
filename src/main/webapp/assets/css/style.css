@@ -1,0 +1,33 @@
+@charset "UTF-8";
+  .course-card {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      overflow: hidden;
+      background-color: #fff;
+      transition: all 0.3s;
+    }
+    .course-card:hover {
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    }
+    .course-img {
+      height: 180px;
+      object-fit: cover;
+      width: 100%;
+    }
+    .course-badge {
+      background-color: #0d3a73;
+      color: #fff;
+      font-weight: 500;
+      padding: 5px 10px;
+      font-size: 0.9rem;
+    }
+    .course-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #003366;
+    }
+    .course-meta {
+      font-size: 0.9rem;
+      color: #555;
+    }
+    
